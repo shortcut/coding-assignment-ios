@@ -22,7 +22,7 @@ A client of ours has just discovered [xkcd comics](https://xkcd.com/).
   <a href="https://www.xkcd.com/327/"><img src="https://imgs.xkcd.com/comics/exploits_of_a_mom.png"/></a>
 </p>
 
-Disregarding the abundance of similar apps in the Play store, she wants to create a comic viewer app, right now! She came up with a list of requirements, too! The user should be able to:
+Disregarding the abundance of similar apps in the App Store, she wants to create a comic viewer app, right now! She came up with a list of requirements, too! The user should be able to:
 
 - browse through the comics,
 - see the comic details, including its description,
@@ -45,7 +45,7 @@ Given the amount of work, the client has agreed to an [MVP](https://en.wikipedia
 
 This is where you come in! :tada: 
 
-Your task is to pick a few features you think are best suited for an MVP. The tech stack is completely up to you - use whichever language you're most comfortable with (we :heart: Kotlin) and any third party libraries and tools you need to get the job done. Considering this is the MVP, your code should be architectured in a way that makes it easy to add and extend features. 
+Your task is to pick a few features you think are best suited for an MVP. The tech stack is completely up to you - use whichever language you're most comfortable with (we :heart: Swift) and any third party libraries and tools you need to get the job done. Considering this is the MVP, your code should be architectured in a way that makes it easy to add and extend features. 
 
 Also, the client doesn't have a budget for a designer. She doesn't expect anything fancy, but she trusts you to come up with something reasonable.
 
